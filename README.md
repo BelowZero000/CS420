@@ -1,1 +1,1 @@
-# CS420
+# CS420: Image deblurring and Object detection
