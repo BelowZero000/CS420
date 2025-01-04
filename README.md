@@ -2,6 +2,7 @@
 
 **Dataset preparation**
 
+[GOPRO](https://drive.google.com/file/d/1srx_z-nUfaZVMRrphi6AdOaMKmqyOop8/view?usp=drive_link)
 
 **Installation**
 
@@ -13,26 +14,13 @@
 
 **Test**
 
-pretrained weights can be [found here](https://drive.google.com/file/d/1M0zk2udF6GfGgMI84xCcGrUmnyZGsg1T/view?usp=sharing)
+Pretrained weights can be [found here](https://drive.google.com/file/d/1M0zk2udF6GfGgMI84xCcGrUmnyZGsg1T/view?usp=sharing)
 
 ```python predict.py -i ./test_img -o ./submit -m ./saved_models/best_fpn.h5``` 
 
-**Gallery**
+**App**
 
-<p float="left">
-<img src="./assets/13.jpg" alt="Number plate" width="250" height="250"/>
-<img src="./assets/13_deblur.jpg" alt="Number plate" width="250" height="250"/>
-</p>
-
-<p float="left">
-<img src="./assets/100.jpg" alt="Number plate" width="250" height="250">
-<img src="./assets/100_deblur.jpg" alt="Number plate" width="250" height="250">
-</p>
-
-<p float="left">
-<img src="./assets/107.jpg" alt="Number plate" width="250" height="250">
-<img src="./assets/107_deblur.jpg" alt="Number plate" width="250" height="250">
-</p>
+```python app.py ```
 
 **Colab Notebook**
 
