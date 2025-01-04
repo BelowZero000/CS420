@@ -1,23 +1,7 @@
-# Using deblurv2 GAN on custom dataset
+# Image deblurring and Object detection
 
 **Dataset preparation**
 
-You can download any set of images which are text, scenery etc . Using gaussian blur you can blur a copy of the images.
-I have took  a dataset from [roboflow](https://universe.roboflow.com/yashwanthworkspace/numbers-identification) .
-Made following folders 
-```
---Licenseplate_blur_clear_dataset
-    --train
-        --blur
-        --sharp
-    --test
-        --blur
-        --sharp
-    --valid
-        --blur
-        --sharp
-```
-Copy original images of train,test,valid to sharp folder. To fill the images in blur folder you can use [this code](./util/blur_image.py). now we are done with data preparation. Dataset which i prepared can be [found here](https://drive.google.com/file/d/1Mk99lU3zJgBkBpHTl0PigJ3UiSX4yyKB/view?usp=sharing)
 
 **Installation**
 
