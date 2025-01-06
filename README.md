@@ -14,17 +14,13 @@
 
 **Test**
 
-Pretrained weights can be [found here](https://drive.google.com/file/d/1M0zk2udF6GfGgMI84xCcGrUmnyZGsg1T/view?usp=sharing)
+Pretrained weights can be [found here](https://drive.google.com/file/d/1VfDiGSq30GfcktYg5LqmbVOMQ3tBMoPn/view?usp=sharing)
 
-```python predict.py -i ./test_img -o ./submit -m ./saved_models/best_fpn.h5``` 
+```python predict.py -i ./test_img -o ./submit -m ./saved_models/fpn_inception.h5``` 
 
 **App**
 
 ```python app.py ```
-
-**Colab Notebook**
-
-[Notebook](https://colab.research.google.com/drive/1yHv9dZt_GYQW69RSbShhwR1TChauF9BL?usp=sharing)
 
 **Credits**
 
