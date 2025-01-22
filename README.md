@@ -1,8 +1,8 @@
 # Image deblurring and Object detection
-
+[Slide](https://docs.google.com/document/d/1-79sE9ah7vkfS6oqgzo9WjPBTuuni2KV/edit?usp=sharing&ouid=116476892199540377722&rtpof=true&sd=true)
 **Dataset preparation**
 
-[GOPRO](https://drive.google.com/file/d/1srx_z-nUfaZVMRrphi6AdOaMKmqyOop8/view?usp=drive_link)
+[GOPRO](https://drive.google.com/drive/folders/1LzC71JWgb-hX9UuGTHvpCv6cDxis4cIi?usp=drive_link)
 
 **Installation**
 
