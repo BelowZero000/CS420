@@ -25,3 +25,4 @@ Pretrained weights can be [found here](https://drive.google.com/file/d/1VfDiGSq3
 **Credits**
 
 - [DeblurGANv2](https://github.com/VITA-Group/DeblurGANv2)
+- [YOLOv8](https://docs.ultralytics.com/models/yolov8/)
