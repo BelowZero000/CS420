@@ -6,7 +6,7 @@
 
 **Dataset preparation**
 
-[GOPRO](https://drive.google.com/drive/folders/1LzC71JWgb-hX9UuGTHvpCv6cDxis4cIi?usp=drive_link)
+[GOPRO](https://seungjunnah.github.io/Datasets/gopro)
 
 **Installation**
 
@@ -18,7 +18,7 @@
 
 **Test**
 
-Pretrained weights can be [found here](https://drive.google.com/file/d/1VfDiGSq30GfcktYg5LqmbVOMQ3tBMoPn/view?usp=sharing)
+Pretrained weights can be [found here](https://drive.google.com/drive/folders/1LzC71JWgb-hX9UuGTHvpCv6cDxis4cIi?usp=drive_link)
 
 ```python predict.py -i ./test_img -o ./submit -m ./saved_models/fpn_inception.h5``` 
 
